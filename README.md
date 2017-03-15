@@ -1,2 +1,2 @@
-# beats_windows_binaries
+# beats_binaries
 A repo containing artefacts provided by Elasticsearch
